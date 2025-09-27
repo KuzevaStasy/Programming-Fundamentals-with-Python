@@ -20,3 +20,19 @@ $\bullet$ Int and Float;
 $\bullet$ Booleans;
 
 $\bullet$ Additional Data Types.
+
+List Basics
+
+$\bullet$ List Definition and Usage;
+
+$\bullet$ Storing Data;
+
+$\bullet$ Creating Lists;
+
+$\bullet$ Accessing Elements;
+
+$\bullet$• List Manipulations;
+
+$\bullet$ Looping Through Lists;
+
+$\bullet$ Searching in Lists.
