@@ -31,6 +31,18 @@ $\bullet$ Creating Lists;
 
 $\bullet$ Accessing Elements;
 
+Functions
+
+$\bullet$ Functions Overview;
+
+$\bullet$ Declaring and Invoking Functions;
+
+$\bullet$ Return Values;
+
+$\bullet$ Lambda Functions;
+
+$\bullet$ Parameters vs Arguments.
+
 $\bullet$• List Manipulations;
 
 $\bullet$ Looping Through Lists;
