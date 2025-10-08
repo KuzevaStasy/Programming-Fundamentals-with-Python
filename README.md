@@ -48,3 +48,15 @@ $\bullet$• List Manipulations;
 $\bullet$ Looping Through Lists;
 
 $\bullet$ Searching in Lists.
+
+List Advanced
+
+$\bullet$ List Comprehension;
+
+$\bullet$ List Methods;
+
+$\bullet$ Advanced Methods;
+
+$\bullet$ Advanced List Manipulations;
+
+$\bullet$ The set() Method.
