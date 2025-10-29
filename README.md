@@ -60,3 +60,13 @@ $\bullet$ Advanced Methods;
 $\bullet$ Advanced List Manipulations;
 
 $\bullet$ The set() Method.
+
+Objects and Classes
+
+$\bullet$ Object-Oriented Programming (OOP);
+
+$\bullet$ Classes;
+
+$\bullet$ Objects;
+
+$\bullet$ Class Attributes and Instance Methods.
