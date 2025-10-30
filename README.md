@@ -70,3 +70,15 @@ $\bullet$ Classes;
 $\bullet$ Objects;
 
 $\bullet$ Class Attributes and Instance Methods.
+
+Dictionaries
+
+$\bullet$ Dictionary Definition;
+
+$\bullet$ Keys and Values;
+
+$\bullet$ Iterating Through Dictionaries;
+
+$\bullet$ Existence in Dictionaries;
+
+$\bullet$ Dictionary Methods.
