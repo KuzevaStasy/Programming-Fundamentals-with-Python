@@ -82,3 +82,11 @@ $\bullet$ Iterating Through Dictionaries;
 $\bullet$ Existence in Dictionaries;
 
 $\bullet$ Dictionary Methods.
+
+Text Processing
+
+$\bullet$ String Definition;
+
+$\bullet$ String Manipulation;
+
+$\bullet$ String Methods.
