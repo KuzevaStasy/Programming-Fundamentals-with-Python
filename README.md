@@ -90,3 +90,13 @@ $\bullet$ String Definition;
 $\bullet$ String Manipulation;
 
 $\bullet$ String Methods.
+
+Regular Expressions
+
+$\bullet$ Definition;
+
+$\bullet$ Syntax;
+
+$\bullet$ RegEx in Python;
+
+$\bullet$ RegEx Methods.
